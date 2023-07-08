@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540623255080",
+    "project_id": "mytodo-6d06d",
+    "storage_bucket": "mytodo-6d06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540623255080:android:e6a9e86fda06056495271d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_note_taker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540623255080-rhpkdeggi2iq3m5g6nm4n8ru66fv877q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8tcop6cVynSEuyQZJ9cAd6xwWH_CQfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540623255080-rhpkdeggi2iq3m5g6nm4n8ru66fv877q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
